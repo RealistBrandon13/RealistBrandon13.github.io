@@ -9,6 +9,7 @@ h1 {
 
  #brush {
     background-color: mediumspringgreen;
+    image: url("images/hacksaw.jpeg");
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
