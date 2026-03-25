@@ -1,5 +1,5 @@
 h1 {
-    background-image: url("images/pattern.jpeg");
+    background: url("images/pattern.jpeg");
     text-align: center;
     font-family: Helvetica;
     font-size: 100px;
@@ -9,7 +9,6 @@ h1 {
 
  #brush {
     background-color: mediumspringgreen;
-    image: url("images/hacksaw.jpeg");
     font-family: Helvetica;
     font-size: 32px;
     font-weight: bold;
